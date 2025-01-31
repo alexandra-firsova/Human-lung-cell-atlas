@@ -26,7 +26,7 @@ These maps include 3 tracheal, 4 proximal bronchial and 4 distal lung samples fr
 </a>
 <br>
 These maps include Visium-based (1 proximal bronchial and 1 distal lung sample) and RRST-based (1 proximal bronchial and 2 distal lung samples) 2 healthy donors with finest level of cell type annotation (80 cell subtypes), and maps of mean gene expression per spot.
-Additional Visium tracheal sample can be accessed here: https://drive.google.com/drive/folders/1AgdKcIYgYBTdQYVeBY2K6ZXc8TCmTnIU?usp=drive_link
+Additional Visium tracheal sample data can be accessed here: https://drive.google.com/drive/folders/1AgdKcIYgYBTdQYVeBY2K6ZXc8TCmTnIU?usp=drive_link
 <br><br>
 
 <a href="https://discovair-copd.serve.scilifelab.se/" target="COPD adult lung atlas (SCRINSHOT)">
