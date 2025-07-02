@@ -41,7 +41,7 @@ These maps include 11 distal lung samples from 2 healthy donors (D583, D588), on
 
 <a href="https://www.ebi.ac.uk/bioimage-archive" target="Raw data and analysis files availability">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    Healthy adult lung atlas (Visium)
+    Raw data and analysis files availability
   </button>
 </a>
 <br>
