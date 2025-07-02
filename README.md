@@ -36,3 +36,13 @@ Additional Visium tracheal sample data can be accessed here: https://drive.googl
 </a>
 <br>
 These maps include 11 distal lung samples from 2 healthy donors (D583, D588), one non-COPD cancer patient (P598) and 3 COPD cancer patients (P599, P611, P631) with three different levels of cell type annotation.
+</a>
+<br><br>
+
+<a href="https://www.ebi.ac.uk/bioimage-archive" target="Raw data and analysis files availability">
+  <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    Healthy adult lung atlas (Visium)
+  </button>
+</a>
+<br>
+The raw images and analysis files are available here. (this link will be updated soon)
