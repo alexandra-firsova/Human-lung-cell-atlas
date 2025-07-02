@@ -39,7 +39,7 @@ These maps include 11 distal lung samples from 2 healthy donors (D583, D588), on
 </a>
 <br><br>
 
-<a href="ftp://bs-upload@ftp-private.ebi.ac.uk/upload/Human-lung-atlas/Images-upload" target="Raw data and analysis files availability">
+<a href="https://ebi.ac.uk/upload/Human-lung-atlas/Images-upload" target="Raw data and analysis files availability">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     Raw data and analysis files availability
   </button>
