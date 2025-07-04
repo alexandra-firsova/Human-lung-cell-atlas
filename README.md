@@ -45,4 +45,4 @@ These maps include 11 distal lung samples from 2 healthy donors (D583, D588), on
   </button>
 </a>
 <br>
-The raw images and analysis files are available here. (this link will be updated soon)
+The images, data and analysis files are available here in corresponding folders.
