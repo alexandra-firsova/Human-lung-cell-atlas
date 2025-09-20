@@ -1,7 +1,10 @@
 # Human-lung-cell-atlas
-Topographic atlas of the healthy adult human lung
+Topographic atlas of the healthy adult human lung </a>
 
 (collection of links with datasets, raw files and code)
+
+</a>
+<br>
 <a href="https://adult-lung-iss.serve.scilifelab.se/" target="Healthy adult lung atlas (HybISS)">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     Healthy adult lung atlas (HybISS)
