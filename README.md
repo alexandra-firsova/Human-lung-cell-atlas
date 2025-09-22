@@ -49,4 +49,12 @@ These maps include 11 distal lung samples from 2 healthy donors (D583, D588), on
   </button>
 </a>
 <br>
-The images, data and analysis files are available here in corresponding folders.
+The images, data and analysis files are available in corresponding sites:
+
+[![Data matrices, cell type maps & analysis](https://img.shields.io/badge/Data-Cell%20Maps%20%26%20Analysis-orange)](https://www.ebi.ac.uk/biostudies/studies/S-BSST2188)
+
+[![Healthy lung (SCRINSHOT)](https://img.shields.io/badge/Images-Healthy%20Lung-blue)](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2307)
+
+[![Healthy lung rare cells](https://img.shields.io/badge/Images-Healthy%20Rare%20Cells-blue)](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2308)
+
+[![COPD lung (SCRINSHOT)](https://img.shields.io/badge/Images-COPD%20Lung-blue)](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2310)
