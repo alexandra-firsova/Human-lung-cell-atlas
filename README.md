@@ -58,3 +58,5 @@ The images, data and analysis files are available in corresponding sites:
 [![Healthy lung rare cells](https://img.shields.io/badge/Images-Healthy%20Rare%20Cells-blue)](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2308)
 
 [![COPD lung (SCRINSHOT)](https://img.shields.io/badge/Images-COPD%20Lung-blue)](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2310)
+
+[![Healthy lung (Visium-RRST)](https://img.shields.io/badge/Images-Visium-RRST%20Lung-blue)](https://www.ebi.ac.uk/biostudies/studies/S-BSST2869)
