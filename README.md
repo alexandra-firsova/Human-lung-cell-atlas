@@ -59,4 +59,4 @@ The images, data and analysis files are available in corresponding sites:
 
 [![COPD lung (SCRINSHOT)](https://img.shields.io/badge/Images-COPD%20Lung-blue)](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2310)
 
-[![Healthy lung (Visium-RRST)](https://img.shields.io/badge/Images-Visium-RRST%20Lung-blue)](https://www.ebi.ac.uk/biostudies/studies/S-BSST2869)
+[![Healthy lung (Visium-RRST)](https://img.shields.io/badge/Data-VisiumRRST%20Lung-blue)](https://www.ebi.ac.uk/biostudies/studies/S-BSST2869)
